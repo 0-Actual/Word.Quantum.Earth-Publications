@@ -58,3 +58,11 @@ I seek a U.S. hardware collaborator for work exploring the visible world and wha
 I am publishing my own writing here, with public sources readers can examine. No project code, architecture, mathematical models or private research accompanies this publication. This repository has no license attached; it is not a public-domain dedication. Publication does not change prior valid grants or third-party rights.
 
 I want my words and work to reflect truthfulness, justice, mercy and humility. I must remember whom I represent: **Jesus Christ**.
+
+---
+
+## Subsequent publications — October 27, 2026
+
+The original article above is preserved. The later [ethics, integrity and collaboration statement](ETHICS-AND-INTEGRITY-2026-10-27.md) records the updated personal position and organization list.
+
+[Virginia campaign finance: show the arithmetic](research/virginia-campaign-finance-2024/README.md) presents a separate public-data comparison, with source figures, reproducible calculations and sensitivity checks. It does not release proprietary project models.

@@ -1,0 +1,91 @@
+{
+  "description": "SHA-256 and SGL Prime fingerprints identify file bytes; they do not certify truth or authorship. The SGL implementation is not included in this publication.",
+  "profile": "QEL-SGLP3-BLAKE2B512-v1",
+  "purpose": "qel.publication.virginia-2024",
+  "files": [
+    {
+      "path": "ARTICLE-2026-10-27-ORIGINAL.md",
+      "bytes": 6562,
+      "sha256": "59b4ec270665b31a60dad65aa8839172b818789860896c4fc6af455ac6f3017e",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:6fcb5ddba279c8a7a603b46b6dd446487e0af7bb4ffca5b1f524a66790a9c6df33285dd5cd282379b9eeaf2e25ab79ab4fb36d53562d5a80b7b461e5b482ea14"
+    },
+    {
+      "path": "ETHICS-AND-INTEGRITY-2026-10-27.md",
+      "bytes": 1778,
+      "sha256": "aecf5f57bb487563c3b951d6dbbc9d4a8151470f817a388e7847ed06542984e4",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:14dcac5397b61094b654afd7b36a43c56d09e99a3d86da9e11779067e9c0fbd5beaf3270b7ba29736a90fc2af5d2db21ea3d06648f1539d539350a6fc8a3a2fc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7077,
+      "sha256": "1fadb16eeb7771ac2a4eda72bea7bdbf1adc9cbfe31241a290e3fd950c3d651f",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:b097578e6ede01f0de795dc8f288a3678e87c1f6c73a81cb017ca0aede0a5d48eff853113c2212754ef3f0cefb7bf982fa5e305ed298218da1595a447b814746"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/README.md",
+      "bytes": 16234,
+      "sha256": "ea1950fcda5c637c5d8e29fbbdc84d46dbe314b09934166551a720a837193daa",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:166c78e02e55b8be2900aa5edc9dd2b3dd6106bbc8a1847ddeecd784dbb8c1b65d48fc8ecbd8cd5d220f4d0424c1fac8a40316d10fe974125c961e568c851364"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/STATE-COMPARISON.csv",
+      "bytes": 6435,
+      "sha256": "cb7e7d0e81c6ebcf3ae3386a7096541ce278780c9cf3686688e95cdb7586aefe",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:51089ae75254e2a0831f3ea828ea9570709f43dcf9077b6bc80565c8b247defa21209d31503badf75aa4eb8841f15240c240d1ded160d28cd64828714b3343b4"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/VIRGINIA-CANDIDATE-ARITHMETIC.csv",
+      "bytes": 4613,
+      "sha256": "c42803712801d50c653d30898be8295ed791279e7a08d456d938c5b48278d28b",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:55a68cbee0c6055c80739060be1c8ccc5ea0da73a4722cc42ddd5cc863df2340ee5782add5c3789ee05aea134b2f09d096b0426703bc1bade6138378344cb296"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/VIRGINIA-DISTRICTS.csv",
+      "bytes": 599,
+      "sha256": "3eb517195969bd817eee9b66f6dbc32e06a0db9eae9d1f864f78b9d924cb3740",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:aabb4995745a604e88f6b7449b086abee23997786012fabb934368d727dfcf9d05820dbed18c6ccd6ce1431e9ce74c3b41ce9dfea023afc12a9f014e5c328b9b"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/FLAGGED-RECORDS.csv",
+      "bytes": 1078,
+      "sha256": "b1bcbfa03d4ec4928eafe95326a69b3b94ed8894dadc7b6efab03a4c9dcd3fd3",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:449ebf3a082a65181bc9a2b561f7e4a656c7112321a598a1a867dd99ab29b6d7f84cf8f716c1d679fda8390b0c2d308c2829578cbe7eb1084efa0391d779d15f"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/CONTROL-CHECKS.csv",
+      "bytes": 406,
+      "sha256": "2643bb27a6cfbb729a1503cd0b40866f62f04ca7767528cd1ff984c9213179a2",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:9ced9a0566c153214479b72c8850c5c0a21de973640f5579f26232dbf47260b672e7659390282e68e7ea87d6cad9cccc3b6b6ec6479681dfbb171b2379ad99c1"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/SEAT-DENOMINATORS.csv",
+      "bytes": 648,
+      "sha256": "cd415a9631ccf60a5e556af6f2ddbbb14c4e41d36724b92a3585e63ea3eb9f7a",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:de7713c17e32bd77406497d37e42a931282e9f754ebcec833bfd25bea8c36191419b8404ad91b0cacbeeb5a2da1a68ae9bd240fd5612895d209142817b33316e"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/REPEATED-NAME-AUDIT.csv",
+      "bytes": 5786,
+      "sha256": "feaf2ab5067d0b920ac39378a0121d873297e7ba1c13be93459545cb63bbcdb3",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:50326c477d3cb7a18aa90e212f139a1e9726d84492a505dcac8c68a39b57b329f6c1dbd44d0bb462fe69313dc3a4c35b86a4e53f84819c64695fa1dcfc8c722e"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/SOURCE-RECEIPT.json",
+      "bytes": 1012,
+      "sha256": "36e7e7e1f7bce9bc25bf37173b9f96f3e1fc480a6b0ed1091024b3c9adcb02e6",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:ac38a334c3394954fc293ae4a65ed8c6bba0992baae85bb356f21c312898b11e89f1053ebd7d3f325619e308570ff05ef7dd27881caee302dd76d2328db31f94"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/CENSUS-SOURCE-RECEIPT.json",
+      "bytes": 274,
+      "sha256": "2ad73cd6b6b2b2fe72ed99796ac88063c6884cc746c96d4a6f99be7d9d9e65ca",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:dbbad8e96bd9d865a09fdc50805043d5a95454c6d04d6ab03aa7eeb30f4928e0efacc488b51ce4ca138931d58c8181fa594688114f15d6fcdf43adddc8346fc2"
+    },
+    {
+      "path": "research/virginia-campaign-finance-2024/INDEPENDENT-VERIFICATION.json",
+      "bytes": 566,
+      "sha256": "e7215286676ea7af77bbedac31299c1f593f28f1ea8a2feb1802989e0aa34637",
+      "sgl_prime": "sglp3:b2b512:v1:qel.publication.virginia-2024:801473e6798ceab799049adfc412fb8a71c87363722f7663b90cdf55e4ad1ebdb38a93881d42c0edb3f3a8cdf3ac9b80b357a941487d504672ba4a7cc0f5410e"
+    }
+  ]
+}

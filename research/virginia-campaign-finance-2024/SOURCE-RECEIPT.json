@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ConCand7_2024_24m.xlsx",
+    "url": "https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/congressional/ConCand7_2024_24m.xlsx",
+    "bytes": 211859,
+    "sha256": "09f586ec09d2ba7034a5c8be465b08c9af651c3548b6e471e6726abd00d3ae1a",
+    "retrieved_at_utc": "2026-10-27T21:50:57.616784+00:00"
+  },
+  {
+    "name": "ConCand7_2024_24m.pdf",
+    "url": "https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/congressional/ConCand7_2024_24m.pdf",
+    "bytes": 1073158,
+    "sha256": "edae713e76566bd9f7787d6074c96328a83fabc6d788a4e5ab54fb7f61049e9f",
+    "retrieved_at_utc": "2026-10-27T21:50:59.078776+00:00"
+  },
+  {
+    "name": "ConCand3_2024_24m.xlsx",
+    "url": "https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/congressional/ConCand3_2024_24m.xlsx",
+    "bytes": 22111,
+    "sha256": "8e25872e82b64935f25b0a56ffd23e664bea21b0f5d919369a207eef1987d418",
+    "retrieved_at_utc": "2026-10-27T21:50:59.621859+00:00"
+  }
+]

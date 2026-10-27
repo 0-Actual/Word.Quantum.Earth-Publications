@@ -1,0 +1,13 @@
+{
+  "checked_utc": "2026-10-27T22:12:33.634635+00:00",
+  "independent_method": "Standard-library ZIP/XML extraction, each dollar value rounded to cents before summing; separate from the openpyxl calculation",
+  "all_50_state_totals_match": true,
+  "source_records": 1886,
+  "national_source_total": "2156242566.97",
+  "virginia_total": "65513529.02",
+  "census_pdf_seat_counts_match_all_50_states": true,
+  "seats": 435,
+  "binary_storage_tails_in_column_J": 294,
+  "largest_subcent_tail_dollars": "2E-9",
+  "original_fec_source_hashes_unchanged": true
+}
